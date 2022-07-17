@@ -31,6 +31,8 @@ These datasets can be viewed as classification or regression tasks. The classes 
 10 - sulphates Output variable (based on sensory data): <br>
 12 - quality (score between 0 and 10) <br><br><br>
 
+![](heatmap.jpg)
+
 ### Relevant Papers:
 
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties.
