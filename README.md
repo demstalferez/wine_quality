@@ -2,6 +2,9 @@
 
 # Wine-Quality EDA and classification 
 
+
+![](https://www.eclusewines.com/images/headers2/ecluse-paso-robles-wine-vineyards.jpg)
+
  ### Data Origin
   
   
