@@ -10,7 +10,7 @@
   
  ##### Data was donate by [Paulo Cortez , Department of Information Systems | School of Engineering | University of Minho, Portugal](https://pcortez.dsi.uminho.pt/)  <br>  to [Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality) and is being using by [Demetrio Esteban Alférez](https://linkedin.com/in/demstalfer)
  
-## [See this notebook in Kaggle!](https://www.kaggle.com/code/demstalfer/wine-eda-preprocessing-and-prediction)
+## [Show this notebook in Kaggle to see 3d graph an more!](https://www.kaggle.com/code/demstalfer/wine-eda-preprocessing-and-prediction)
 
 ### Data Set Information:
 
