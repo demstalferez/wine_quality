@@ -31,6 +31,7 @@ These datasets can be viewed as classification or regression tasks. The classes 
 10 - sulphates Output variable (based on sensory data): <br>
 12 - quality (score between 0 and 10) <br><br><br>
 
+## Chemical Correlation example 
 ![](heatmap.jpg)
 
 ### Relevant Papers:
