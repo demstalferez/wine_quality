@@ -1,0 +1,12 @@
+https://archive.ics.uci.edu/ml/datasets/wine+quality
+
+http://www3.dsi.uminho.pt/pcortez/
+
+https://rpubs.com/Dhivyasri/908195
+
+https://towardsdatascience.com/identify-your-datas-distribution-d76062fc0802
+
+https://guldenturgay.medium.com/
+
+https://www.kaggle.com/code/mnds18/prediction-of-quality-of-wine/notebook
+
