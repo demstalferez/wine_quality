@@ -25,7 +25,7 @@ These datasets can be viewed as classification or regression tasks. The classes 
 4 - residual sugar <br>
 5 - chlorides <br>
 6 - free sulfur dioxide <br>
-7 - total sulfur dioxide <br>
+7 - total sulfur dioxide <br> 
 8 - density <br>
 9 - pH <br>
 10 - sulphates Output variable (based on sensory data): <br>
