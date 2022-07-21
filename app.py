@@ -22,7 +22,7 @@ def predict_quality(model, df):
 model = load_model('gbc_model')
 
 
-st.image('/home/dm/Desktop/pryectos revisado/wine_quality/1615502068951.jpeg', use_column_width=False, width=500)
+st.image('1615502068951.jpeg', use_column_width=False, width=500)
 st.title('The Red Wine Classificator App')
 st.write('NOT FOR COMERCIAL USE, IS A TEST FOR WINE QUALITY.')
 
