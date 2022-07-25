@@ -11,7 +11,7 @@
  ##### Data was donate by [Paulo Cortez , Department of Information Systems | School of Engineering | University of Minho, Portugal](https://pcortez.dsi.uminho.pt/)  <br>  to [Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality) and is being using by [Demetrio Esteban Alférez](https://linkedin.com/in/demstalfer)
  
 ## [See this notebook in Kaggle to generate 3d graph an more!](https://www.kaggle.com/code/demstalfer/wine-eda-preprocessing-and-prediction)
-
+## [Real Time prediction model](https://demstalferez-wine-quality-app-qh5qjv.streamlitapp.com/)
 ### Data Set Information:
 
 The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine.<br> For more details, consult: [Web Link] or the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. <br>there is no data about grape types, wine brand, wine selling price, etc.).
